@@ -1,4 +1,6 @@
 ### Datasets:
+We take time duration of 2000-2019 for both datasets.
+<br>
 Datasets are in folder `pmelData` ([link](https://www.pmel.noaa.gov/tao/drupal/disdel/)) and `uknet` ([link](https://www.metoffice.gov.uk/hadobs/en4/download-en4-2-2.html)). 
     - For pmel dataset, 6S10W is chosen, since it has most data coverage.
     - For uknet dataset, we choose same location as pmel dataset. 'Levitus et al. (2009) corrections' taken.
