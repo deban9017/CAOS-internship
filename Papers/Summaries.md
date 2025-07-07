@@ -17,3 +17,14 @@
     - To predict s for a longer time, more sensors are required, i.e. more x positions.
     - (See last example in the paper, solves diffusion equation.)
 
+1. **New insights into experimental stratiﬁed ﬂows obtained through physics-informed neural networks:**
+    <br>
+    ![image](dat/new_insights_PINN.png)
+
+1. **Neural ODE:**
+    <br>
+    - We predict dy/dt [= f(y,t)] using a NN. Then we get y(t) by integrating dy/dt using an ODE solver. Then we take loss between predicted y(t) and actual y(t) and backpropagate using adjoint sensitivity method.
+    - We can use any ODE solver, but the paper used the Dormand-Prince method.
+    - **READ THE PAPER ONCE MORE. NEED MORE UNDERSTANDING.**
+    - [ChatGPT Chat](https://chatgpt.com/share/686562da-ebbc-800e-a12a-fa6c6e0ce741) - See last 2-3 messages for summary and key points.
+    
