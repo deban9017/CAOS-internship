@@ -8,3 +8,8 @@ Convert/
 amd_gpu_ssh
 amd_gpu_ssh.pub
 
+# trained models
+*.pth
+
+# logs
+*.log
