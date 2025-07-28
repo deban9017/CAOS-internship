@@ -3,3 +3,8 @@
 ukmet/
 dat/
 Convert/
+
+# ignore amd_gpu_ssh and amd_gpu_ssh.pub
+amd_gpu_ssh
+amd_gpu_ssh.pub
+
