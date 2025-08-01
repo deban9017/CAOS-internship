@@ -2,7 +2,9 @@
 # large dataset ukmet
 # download from link in Progress.md
 ukmet/
+# large dataset RBC_noslip simulation
 dat/
+# Converted ipynb to py files
 Convert/
 
 # ignore amd_gpu_ssh and amd_gpu_ssh.pub
