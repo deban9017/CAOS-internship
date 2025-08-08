@@ -4,6 +4,7 @@
 ukmet/
 # large dataset RBC_noslip simulation
 dat/
+dat_3d/
 # Converted ipynb to py files
 Convert/
 
