@@ -1,0 +1,4 @@
+all-4-var-corrected-fno-2x-model-one-timestep-tra.ipynb
+and 
+4-var-corrected-fno-1-timestep-train.ipynb
+are best results.
